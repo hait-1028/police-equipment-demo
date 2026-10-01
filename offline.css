@@ -1,0 +1,8 @@
+#portfolio-bar{position:fixed;bottom:14px;left:50%;transform:translateX(-50%);z-index:2147483646;display:flex;align-items:center;gap:18px;background:#172747f5;color:#fff;border:1px solid #ffffff26;padding:10px 14px;border-radius:10px;box-shadow:0 8px 32px #13244440;font:12px/1.4 'Microsoft YaHei',sans-serif;max-width:calc(100vw - 32px);white-space:nowrap}
+#portfolio-bar a{color:#fff!important;text-decoration:none}#portfolio-bar span{color:#d4def0}#portfolio-bar select{background:#273d63;color:#fff;border:1px solid #ffffff30;padding:6px;border-radius:5px;max-width:250px;cursor:pointer}
+#offline-toast{position:fixed;z-index:2147483647;left:50%;top:85px;transform:translateX(-50%);background:#172747;color:#fff;border-radius:8px;padding:12px 20px;font:14px/1.5 'Microsoft YaHei',sans-serif;box-shadow:0 5px 28px #17274733;opacity:0;pointer-events:none;transition:opacity .2s}#offline-toast.visible{opacity:1}
+[data-local-page]{cursor:pointer}.el-table__body-wrapper{overflow:auto!important}.el-table__header-wrapper{overflow-x:hidden}.el-tabs__nav-scroll{overflow-x:auto!important}.el-tabs__nav{transform:none!important}.u-tabs-close{display:none!important}.ai-area,.ai-drawer,.m-popover-icon{display:none!important}
+#app>.main-default{height:calc(100vh - 64px)!important}body{padding-bottom:64px!important}
+#app .g-content,#app .g-left{height:calc(100vh - 114px)!important}
+#app .m-table-list,#app .el-table{min-height:0!important}
+@media(max-width:850px){#portfolio-bar span{display:none}#portfolio-bar{gap:10px;bottom:10px}}

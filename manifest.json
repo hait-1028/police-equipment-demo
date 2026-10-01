@@ -1,0 +1,69 @@
+{
+  "captureDate": "2026-09-30",
+  "mode": "offline-static",
+  "pageCount": 12,
+  "pages": [
+    {
+      "name": "功能门户",
+      "slug": "01-portal",
+      "url": "https://jyzb.izkml.cn/#/home"
+    },
+    {
+      "name": "装备工作台",
+      "slug": "02-workbench",
+      "url": "https://jyzb.izkml.cn/business-module/#/overview/work-bench"
+    },
+    {
+      "name": "库存概览 · 出入库统计",
+      "slug": "03-stock-statistics",
+      "url": "https://jyzb.izkml.cn/business-module/#/storage-search/storeHouse-statistic"
+    },
+    {
+      "name": "库存概览 · 实时库存",
+      "slug": "04-live-stock",
+      "url": "https://jyzb.izkml.cn/business-module/#/storage-search/batch-information"
+    },
+    {
+      "name": "装备入库 · 入库登记",
+      "slug": "05-inbound-form",
+      "url": "https://jyzb.izkml.cn/business-module/#/in-storage/in-apply/register"
+    },
+    {
+      "name": "库房管理",
+      "slug": "06-warehouse",
+      "url": "https://jyzb.izkml.cn/business-module/#/store-house-manage"
+    },
+    {
+      "name": "部门装备 · 装备总览",
+      "slug": "07-equipment-overview",
+      "url": "https://jyzb.izkml.cn/business-module/#/equip-detail/equip-overview"
+    },
+    {
+      "name": "部门装备 · 单警装备",
+      "slug": "08-personal-equipment",
+      "url": "https://jyzb.izkml.cn/business-module/#/equip-detail/police-equipment"
+    },
+    {
+      "name": "日常管理 · 装备借用",
+      "slug": "09-borrow-records",
+      "url": "https://jyzb.izkml.cn/business-module/#/receive-record"
+    },
+    {
+      "name": "风险预警 · 保养预警",
+      "slug": "10-maintenance-warning",
+      "url": "https://jyzb.izkml.cn/business-module/#/warning-center/maintain-early-warning"
+    },
+    {
+      "name": "风险预警 · 失效预警",
+      "slug": "11-expiry-warning",
+      "url": "https://jyzb.izkml.cn/business-module/#/warning-center/lose-efficacy-warning"
+    },
+    {
+      "name": "日常管理 · 借用登记",
+      "slug": "12-borrow-form",
+      "url": "https://jyzb.izkml.cn/business-module/#/receive-register"
+    }
+  ],
+  "assetCount": 64,
+  "resourceFailures": []
+}
